@@ -1,5 +1,5 @@
-import { SlashCommandBuilder } from 'npm:discord.js';
-import axios from 'npm:axios';
+import { SlashCommandBuilder } from 'discord.js';
+import axios from 'axios';
 
 const API_KEY = '60dbcfbfa6c6fe8565a1e1022b9582a9';
 
